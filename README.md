@@ -1,5 +1,7 @@
 # Next.js Learning Repository
 
+
+
 Welcome to my Next.js learning repository! 🚀
 
 This GitHub repository serves as a place where I document and share my journey of learning [Next.js](https://nextjs.org/), a powerful React framework for building fast, user-friendly web applications.
